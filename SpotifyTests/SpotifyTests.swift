@@ -1,9 +1,4 @@
-//
-//  SpotifyTests.swift
-//  SpotifyTests
-//
-//  Created by Rajat Nagvenker on 16/04/21.
-//
+
 
 import XCTest
 @testable import Spotify

@@ -1,9 +1,4 @@
-//
-//  SearchBox.swift
-//  Spotify
-//
-//  Created by Rajat Nagvenker on 19/04/21.
-//
+
 
 import SwiftUI
 

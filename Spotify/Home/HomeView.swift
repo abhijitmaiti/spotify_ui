@@ -1,9 +1,3 @@
-//
-//  HomeView.swift
-//  Spotify
-//
-//  Created by Rajat Nagvenker on 13/04/21.
-//
 
 import SwiftUI
 

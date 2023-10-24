@@ -1,9 +1,4 @@
-//
-//  TestViewSec.swift
-//  Spotify
-//
-//  Created by Rajat Nagvenker on 24/04/21.
-//
+
 
 import SwiftUI
 

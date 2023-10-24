@@ -1,9 +1,3 @@
-//
-//  ShowsView.swift
-//  Spotify
-//
-//  Created by Rajat Nagvenker on 15/04/21.
-//
 
 import SwiftUI
 

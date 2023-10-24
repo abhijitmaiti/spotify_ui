@@ -1,9 +1,4 @@
-//
-//  LibraryView.swift
-//  Spotify
-//
-//  Created by Rajat Nagvenker on 13/04/21.
-//
+
 
 import SwiftUI
 var darkGray = Color(red: 0.15, green: 0.15, blue: 0.15)

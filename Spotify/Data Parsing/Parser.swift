@@ -1,9 +1,3 @@
-//
-//  Parser.swift
-//  Spotify
-//
-//  Created by Rajat Nagvenker on 18/04/21.
-//
 
 import Foundation
 
